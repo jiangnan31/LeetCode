@@ -1,8 +1,5 @@
 package com.test.leetcode.chapter1.section2;
 
-import java.util.EmptyStackException;
-import java.util.Stack;
-
 public class ValidParenthesesN020 {
 
     public char getOppositeChar(char c) {
